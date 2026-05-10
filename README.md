@@ -1,0 +1,2 @@
+# MediCore
+Hospital Management Sysrem
